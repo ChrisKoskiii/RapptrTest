@@ -1,5 +1,7 @@
 # RapptrTest
 
-Thank you so much for the opportunity to present my skills. I have completed the project per the requests included in the project.
+Thank you so much for the opportunity to present my skills. I have completed the project with the requests included in the project.
+
+For the API calls, I used URLSession for the chat network call, and decide to use Alamofire for the POST Login network call.
 
 I would apprecaite any feedback! Looking forward to hearing from you! 😊
